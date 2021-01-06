@@ -1,0 +1,24 @@
+---
+title: "Questions for Assignment 1"
+subtitle: "Your favourite statistics course"
+author: "Your name here"
+output: html_notebook
+---
+
+Complete the following questions.
+
+# Question 1
+
+Load the data for this assessment using the `read_csv()` function and save it as `example`
+
+```{r, q1}
+
+```
+
+# Question 2
+
+Create vector of 100 number randomly drawn from a Normal distribution with $\mu = 0$ and $\sigma = 1$.
+
+```{r, q2}
+
+```
